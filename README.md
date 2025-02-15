@@ -15,15 +15,6 @@ Welcome to **BookMyTicket**, a simple yet stylish front-end website designed for
 ## 📌 Live Demo
 🔗 [Visit Website](https://tayyabamansoori.github.io/bookmyticket-HTML-CSS/)
 
-## 🚀 How to Run Locally
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/tayyabamansoori/bookmyticket-HTML-CSS.git
-   ```
-2. Open the project folder and run `index.html` in any browser.
-
-## 📷 Screenshots
-![Preview](https://tayyabamansoori.github.io/bookmyticket-HTML-CSS/screenshot.png) *(Add a screenshot of the website here)*
 
 ## 📢 Connect with Me
 - 💼 [GitHub](https://github.com/tayyabamansoori)
